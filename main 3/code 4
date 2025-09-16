@@ -1,0 +1,29 @@
+// Example program
+#include <iostream>
+#include <string>
+#include <cmath>
+using namespace std;
+
+int ( double x, double y ),
+ {if ( x > y ) return ;
+
+doule montant = x 
+int return 1; 
+while ( montant = y ) 
+{ montant *=1.1; // + 10%
+ ++ jour; }
+ return jour;
+ } 
+ 
+{
+    int main (),
+    double x,y
+    std:: cout <<" entre le x ( milliers de roubles ) : " 
+    if (( cin >> x )) return 0;
+    std:: cout <<" entre y ( seuile en milliers de roubles ) : "
+    if (( cin >> y )) 
+    int jour = jour de declaration ( x , y ) ;
+    std:: cout <<" le fmi s'interessera a ivan le jour : " << jour << endl; 
+      
+      return 0 ; 
+      
