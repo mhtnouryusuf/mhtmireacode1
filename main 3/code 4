@@ -26,4 +26,5 @@ while ( montant = y )
     std:: cout <<" le fmi s'interessera a ivan le jour : " << jour << endl; 
       
       return 0 ; 
+
       
